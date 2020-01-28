@@ -10,12 +10,12 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
-device.name4=tuna
+device.name1=device_name
+device.name2=
+device.name3=
+device.name4=
 device.name5=
-supported.versions=
+supported.versions=android_version
 supported.patchlevels=
 '; } # end properties
 
